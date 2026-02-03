@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-PDF_PATH = "data/Generative AI with LangChain.pdf"
+PDF_PATH = "DATA PATH.pdf"
 
 def ingest():
     collection = get_collection()
