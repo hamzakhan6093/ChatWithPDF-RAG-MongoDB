@@ -1,4 +1,4 @@
-📌 Project Overview: RAG-Based Chatbot with MongoDB Vector Search
+#📌 Project Overview: RAG-Based Chatbot with MongoDB Vector Search
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that enables users to interact with PDF documents using natural language. The system is designed to ingest documents, convert them into searchable vector representations, retrieve the most relevant content, and generate accurate responses using an open-source language model.
 
@@ -91,3 +91,4 @@ Knowledge assistants for internal documents
 Research paper analysis
 
 Enterprise chatbot solutions
+
