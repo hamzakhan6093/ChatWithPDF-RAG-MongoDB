@@ -1,0 +1,10 @@
+langchain
+pymongo
+langchain-ollama
+langchain_community
+pypdf
+sentence-transformers
+torch
+langchain-huggingface
+streamlit
+python-dotenv
